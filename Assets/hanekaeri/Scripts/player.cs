@@ -12,7 +12,7 @@ public class player : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		//testtest
 	}
 	
 	// Update is called once per frame
